@@ -1,4 +1,6 @@
 # batch
 #ESSE é um script desenvolvido em batch
-# Algumas coisas simples pra vocÊ usar no seu proprio software console aplication
+# Desenvolvido para um trabalho da universidade, um simples software para cadastro de voluntários e alimentos
+SENHA = admin
+
 
